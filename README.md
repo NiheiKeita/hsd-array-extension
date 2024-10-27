@@ -1,6 +1,7 @@
 # インストール
-
+```
 npm install hsd-array-extension
+```
 
 # 設定
 
