@@ -1,6 +1,6 @@
 {
-  "name": "hsd-array-extention",
-  "version": "0.0.5",
+  "name": "hsd-array-extension",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
