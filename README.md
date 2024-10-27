@@ -8,5 +8,5 @@ npm install hsd-array-extension
 
 
 ```tsx
-import "hsd-array-extention"
+import "hsd-array-extension"
 ```
