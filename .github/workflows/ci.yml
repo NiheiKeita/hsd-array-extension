@@ -1,0 +1,17 @@
+name: ci
+
+on: [pull_request]
+
+jobs:
+  eslint:
+    name: eslint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: npm install
+        run: npm install
+      - name: npm build
+        run: npm run build
+      - name: test
+        run: npm run test
+
